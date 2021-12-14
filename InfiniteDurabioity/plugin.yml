@@ -1,0 +1,15 @@
+---
+name: InfiniteDurability
+author: GYo.O
+version: G111
+main: GY\PM4\InfiniteDurability
+api: 4.0.0
+
+commands:
+  내구도:
+    description: 아이템 내구도를 관리합니다.
+    permission: id.cmd
+permissions:
+  id.cmd:
+    default: op
+...
